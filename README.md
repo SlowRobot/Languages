@@ -6,5 +6,5 @@ University:  University of New South Wales
 
 Name:        Reaper
 
-Repositry containing the learning process for coding in varying languages
+Repositry containing the learning process for coding in varying languages plus random coding practice/tests
 
