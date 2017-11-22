@@ -1,0 +1,6 @@
+string1 = input("Enter the first string: ")
+string2 = input("Enter the second string: ")
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+print(string1 + string2)
+print(num1 * num2)
