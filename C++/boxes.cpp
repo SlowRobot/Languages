@@ -1,6 +1,5 @@
 #include <iostream>
 #include <stdlib.h>
-
 int main() {
   int amt = 0;
   std::cout << "How many boxes? ";
